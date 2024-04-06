@@ -1,0 +1,24 @@
+
+.templatepick{
+    margin-top:3%;
+    
+}
+.homediv{
+    
+    min-height: 100vh; 
+}
+
+.col1{
+    border: 2px solid black;
+}
+.col2{
+    margin-left: 15px;
+    border: 2px solid black;
+}
+.row2{
+    margin-top: 10px;
+}
+.button1{
+    
+    margin-right: 625px;
+}
